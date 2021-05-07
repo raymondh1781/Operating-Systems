@@ -2,3 +2,6 @@ There are many operating system funtions, but one i will talk about here is rela
 The operating system on whatever you are using needs to be in control of absolutely everything.
 To do this, the system has direct lines of communication to all the different managers that handle the bulk of the work that needs to be done.
 To operate as efficiently as possible, the OS and the managers need to be able to talk together to proceedd therough the workload without hitches or other problems.
+Another function of an operating system is traffic control.
+To operate efficiently, as with communication, setting priority to software functions and program needs, is nesccesary.
+With out these eneedss being set, anything could run over or under whatever it wanted to, with no direction.
